@@ -52,3 +52,10 @@
 
     `sudo rm /dev/spdl_chrdev`
 
+* Fast commands
+
+    `./bin/run.sh`
+
+    `./bin/write.sh`
+
+    `./bin/stop.sh`
